@@ -11,6 +11,14 @@
 		3F443AEF272E2590006A9443 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F443AEE272E2590006A9443 /* ContentView.swift */; };
 		3F443AF1272E2591006A9443 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F443AF0272E2591006A9443 /* Assets.xcassets */; };
 		3F443AF4272E2591006A9443 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F443AF3272E2591006A9443 /* Preview Assets.xcassets */; };
+		3F443AFD272E279D006A9443 /* SampleButtons1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F443AFC272E279D006A9443 /* SampleButtons1.swift */; };
+		3F443AFF272E2862006A9443 /* SampleButtons2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F443AFE272E2862006A9443 /* SampleButtons2.swift */; };
+		3F443B01272E292D006A9443 /* SampleButtons3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F443B00272E292D006A9443 /* SampleButtons3.swift */; };
+		3F443B03272E2A51006A9443 /* SampleButtons4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F443B02272E2A51006A9443 /* SampleButtons4.swift */; };
+		3F443B05272E2B23006A9443 /* SampleButtons5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F443B04272E2B22006A9443 /* SampleButtons5.swift */; };
+		3F443B07272E2DB4006A9443 /* SampleButtons6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F443B06272E2DB4006A9443 /* SampleButtons6.swift */; };
+		3FC64FE7272F6E0B00E01FE1 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC64FE6272F6E0B00E01FE1 /* MenuView.swift */; };
+		3FC64FE9272F742F00E01FE1 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC64FE8272F742F00E01FE1 /* Profile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +27,14 @@
 		3F443AEE272E2590006A9443 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3F443AF0272E2591006A9443 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F443AF3272E2591006A9443 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3F443AFC272E279D006A9443 /* SampleButtons1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleButtons1.swift; sourceTree = "<group>"; };
+		3F443AFE272E2862006A9443 /* SampleButtons2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleButtons2.swift; sourceTree = "<group>"; };
+		3F443B00272E292D006A9443 /* SampleButtons3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleButtons3.swift; sourceTree = "<group>"; };
+		3F443B02272E2A51006A9443 /* SampleButtons4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleButtons4.swift; sourceTree = "<group>"; };
+		3F443B04272E2B22006A9443 /* SampleButtons5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleButtons5.swift; sourceTree = "<group>"; };
+		3F443B06272E2DB4006A9443 /* SampleButtons6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleButtons6.swift; sourceTree = "<group>"; };
+		3FC64FE6272F6E0B00E01FE1 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		3FC64FE8272F742F00E01FE1 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +69,14 @@
 			children = (
 				3F443AEC272E2590006A9443 /* HerTechConnectDesignTestApp.swift */,
 				3F443AEE272E2590006A9443 /* ContentView.swift */,
+				3FC64FE6272F6E0B00E01FE1 /* MenuView.swift */,
+				3FC64FE8272F742F00E01FE1 /* Profile.swift */,
+				3F443AFC272E279D006A9443 /* SampleButtons1.swift */,
+				3F443AFE272E2862006A9443 /* SampleButtons2.swift */,
+				3F443B00272E292D006A9443 /* SampleButtons3.swift */,
+				3F443B02272E2A51006A9443 /* SampleButtons4.swift */,
+				3F443B04272E2B22006A9443 /* SampleButtons5.swift */,
+				3F443B06272E2DB4006A9443 /* SampleButtons6.swift */,
 				3F443AF0272E2591006A9443 /* Assets.xcassets */,
 				3F443AF2272E2591006A9443 /* Preview Content */,
 			);
@@ -137,8 +161,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F443B01272E292D006A9443 /* SampleButtons3.swift in Sources */,
+				3FC64FE9272F742F00E01FE1 /* Profile.swift in Sources */,
 				3F443AEF272E2590006A9443 /* ContentView.swift in Sources */,
+				3F443B03272E2A51006A9443 /* SampleButtons4.swift in Sources */,
 				3F443AED272E2590006A9443 /* HerTechConnectDesignTestApp.swift in Sources */,
+				3FC64FE7272F6E0B00E01FE1 /* MenuView.swift in Sources */,
+				3F443AFF272E2862006A9443 /* SampleButtons2.swift in Sources */,
+				3F443B05272E2B23006A9443 /* SampleButtons5.swift in Sources */,
+				3F443B07272E2DB4006A9443 /* SampleButtons6.swift in Sources */,
+				3F443AFD272E279D006A9443 /* SampleButtons1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
